@@ -1,7 +1,0 @@
-
-
-function getMiddle() {
-    let midElems = [];
-
-    
-}
